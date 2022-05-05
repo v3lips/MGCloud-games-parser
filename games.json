@@ -1,0 +1,8230 @@
+[
+    {
+        "launchers": [
+            {
+                "id": 686,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Бесконечное лето",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 685,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "MASKA",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 683,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Space Robinson",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 682,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Dead Station",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 681,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Fisher Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 679,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Lost Scavenger",
+        "plans": [
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 678,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "StrikeForce Kitty",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 677,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Picklock",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 676,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Creepy Tale 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 675,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Creepy Tale",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 674,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "On The Verge II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 673,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "ExoTanks",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 671,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Blood and Soul",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 669,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "The LIGHT Remake",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 668,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Seed Hunter",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 667,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Beholder 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 666,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "War and Magic: Kingdom Reborn",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 665,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "ELDEN RING",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 663,
+                "launcher": "Remote Desktop"
+            }
+        ],
+        "name": "Все лаунчеры (beta)",
+        "plans": [
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 661,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "World War Z: Aftermath",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 660,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Battle Mages",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 659,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Aggression: Europe Under Fire",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 658,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Петька и Василий Иванович Спасают Галактику. Перезагрузка",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 657,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Петька и Василий Иванович 3: Возвращение Аляски. Перезагрузка",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 656,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Петька и Василий Иванович 2: Судный день. Перезагрузка",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 655,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Demon Skin",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 654,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Deck of Ashes",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 653,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Darkestville Castle",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 652,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Collapse",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 651,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "9 Monkeys of Shaolin",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 650,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Marauder",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 649,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hard Truck Apocalypse / Ex Machina",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 690,
+                "launcher": "Игровой Центр"
+            },
+            {
+                "id": 648,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 647,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Trine 4: The Nightmare Prince",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 646,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Human: Fall Flat",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 645,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Edge Of Eternity",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 643,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "GreedFall",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 642,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dead Cells",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 641,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hollow",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 640,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Prodigy Tactics",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 639,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Childs Sight",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 638,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bedtime Blues",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 637,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sparkle 4 Tales",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 635,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Rise Eterna",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 634,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Mansion",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 633,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Panzer Dragoon: Remake",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 631,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "SWORD ART ONLINE Alicization Lycoris",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 630,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Cooking Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 629,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sword Art Online: Fatal Bullet",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 628,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 627,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DRAGON BALL FighterZ",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 626,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "CODE VEIN",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 625,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "SOULCALIBUR VI",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 623,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "SCARLET NEXUS",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 622,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ni no Kuni™ II: Revenant Kingdom",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 621,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 620,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 619,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Project CARS 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 618,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Chernobylite",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 617,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Project CARS",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 616,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Project CARS 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 615,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 614,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tales of Arise",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 613,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Dark Pictures Anthology: Little Hope",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 611,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Dark Pictures Anthology: Man of Medan",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 609,
+                "launcher": "Игровой Центр"
+            },
+            {
+                "id": 610,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "World War 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 608,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DARK SOULS™ II Scholar of the First Sin",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 607,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Little Nightmares",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 606,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Little Nightmares II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 605,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "TEKKEN 7",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 604,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DARK SOULS™: REMASTERED",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 603,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DARK SOULS™ III",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 602,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DRAGON BALL Z: KAKAROT",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 601,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Dark Pictures Anthology: House of Ashes",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 600,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Эволюция 2: Битва за Утопию",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 599,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Ghosts of War",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 598,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Grotto",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 597,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tunnel of Doom",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 596,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Nongunz: Doppelganger Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 595,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Severed Steel",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 593,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bus Simulator 21",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 592,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Police Simulator: Patrol Officers",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 590,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Totally Accurate Battle Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 589,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Eximius: Seize the Frontline",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 588,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "S.W.A.N.: Chernobyl Unexplored",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 587,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "WW2: Bunker Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 586,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Blood Bond: Into the Shroud",
+        "plans": [
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 585,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Hassle 1977",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 584,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "DISTRUST",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 583,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "EBOLA 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 582,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Metin 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 581,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Naval Armada",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 580,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Tank Force",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 579,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Golf Club Wasteland",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 578,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Arise: A Simple Story",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 575,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dread Templar",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 574,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Lords and Villeins",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 573,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Forgive Me Father",
+        "plans": [
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 571,
+                "launcher": "Steam"
+            },
+            {
+                "id": 572,
+                "launcher": "GOG"
+            }
+        ],
+        "name": "Scrapnaut",
+        "plans": [
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 570,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Seven: The Days Long Gone",
+        "plans": [
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 569,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "SYMMETRY",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 568,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Inner Chains",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 567,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Husk",
+        "plans": [
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 566,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Kholat",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 563,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tails of Iron",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 562,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Roguebook",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 561,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Rogue Lords",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 560,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Roboquest",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 559,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Legion TD 2 - Multiplayer Tower Defense",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 558,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "El Hijo - A Wild West Tale",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 557,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Pile Up! Box by Box",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 556,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "OVERPASS™",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 555,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "WRC 9 FIA World Rally Championship",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 554,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Pro Cycling Manager 2021",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 553,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Train Life: A Railway Simulator",
+        "plans": [
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 552,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "WRC 10 FIA World Rally Championship",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 551,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RiMS Racing",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 550,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Of Orcs And Men",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 549,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "2Dark",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 548,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Outcast - Second Contact",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 547,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Session: Skateboarding Sim Game",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 546,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Blood Bowl 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 545,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Guild of Darksteel",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 644,
+                "launcher": "Игровой Центр"
+            },
+            {
+                "id": 544,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "War Mongrels",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 542,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Metro: Last Light Redux",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 540,
+                "launcher": "Steam"
+            },
+            {
+                "id": 541,
+                "launcher": "Epic Games Store"
+            }
+        ],
+        "name": "Metro 2033 Redux",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 539,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Tacticool",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 538,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Grand Hotel Mania",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 536,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "Heroes of Might and Magic III: Horn of the Abyss",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 534,
+                "launcher": "Steam"
+            },
+            {
+                "id": 535,
+                "launcher": "Epic Games Store"
+            }
+        ],
+        "name": "Metro Exodus",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 533,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Road 96",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 532,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King's Bounty II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 531,
+                "launcher": "Steam"
+            },
+            {
+                "id": 537,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Pathfinder: Wrath of the Righteous",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 529,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Mars or Die!",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 528,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hyperdrive Massacre",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 527,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Helheim",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 526,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Empyrion - Galactic Survival",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 525,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Super Inefficient Golf",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 524,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Redout: Enhanced Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 523,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Marooners",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 522,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Crash Drive 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 520,
+                "launcher": "Gaijin"
+            }
+        ],
+        "name": "Enlisted",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 519,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Eldest Souls",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 518,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Soldiers: Heroes of World War II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 517,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Сталинград",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 516,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Star Wolves",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 515,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Star Wolves 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 514,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Star Wolves 3: Civil War",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 512,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Tomorrow War",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 511,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Theatre of War",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 509,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Through the Woods",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 508,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "UFO: Aftermath",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 507,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "UFO: Aftershock",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 506,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Death Track®: Resurrection",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 505,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Zombies on a Plane",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 504,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "XIII Century – Gold Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 503,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "World War I",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 502,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Shiny",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 500,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Rig n Roll",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 499,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Renoir",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 498,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Real Warfare 2: Northern Crusades",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 497,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Real Warfare 1242",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 496,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RC Cars",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 495,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Санитары подземелий",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 494,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Perimeter: Emperor's Testament",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 493,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Perimeter",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 492,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "В тылу врага 2: Штурм",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 491,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Черные бушлаты",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 490,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Вьетнам: Диверсанты",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 489,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "В тылу врага: Штрафбат",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 488,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "7,62 Hard Life",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 485,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Off-Road Drive",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 483,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "NecroVisioN: Lost Company",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 482,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "NecroVision",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 481,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "POSTAL Redux",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 480,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "POSTAL",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 479,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "В тылу врага",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 478,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Lovecraft's Untold Stories",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 477,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Князь 3: Новая династия",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 476,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "POSTAL 4: No Regerts",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 475,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "POSTAL 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 474,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Князь 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 473,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King's Bounty: Warriors of the North",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 472,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King's Bounty: The Legend",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 471,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King's Bounty: Dark Side",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 470,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King's Bounty: Armored Princess",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 469,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King's Bounty: Crossworlds",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 468,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Haimrik",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 464,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dawn of Magic 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 463,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Карибский кризис: Ледниковый поход",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 462,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Карибский кризис",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 459,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Codex of Victory",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 458,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Brigade E5: New Jagged Union",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 457,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Пограничье",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 456,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "BLACKHOLE",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 455,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "7,62 High Calibre",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 454,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Viscerafest",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 453,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "GRAVEN",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 452,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ил-2 Штурмовик. Платиновая коллекция",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 451,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Space Rangers: Quest",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 448,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Prom",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 447,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Move or Die",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 446,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Starpoint Gemini Warlords",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 445,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Star Dynasties",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 444,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Shortest Trip to Earth",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 443,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Interstellar Rift",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 442,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Railroad Corporation",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 441,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Circle Empires",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 440,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Oriental Empires",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 439,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Circle Empires Rivals",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 438,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King of Retail",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 437,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Blazing Sails",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 436,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sniper Ghost Warrior Contracts 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 435,
+                "launcher": "Steam"
+            },
+            {
+                "id": 434,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Blood of Steel",
+        "plans": [
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 432,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Trailmakers",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 431,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Eco",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 430,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Of Bird and Cage",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 429,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Space Raiders in Space",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 428,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Daymare: 1998",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 427,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hatred",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 426,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Stay Out",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 425,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "Infinite Lagrange",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 424,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "Badlanders",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 423,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Super Mecha Champions",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 421,
+                "launcher": "Steam"
+            },
+            {
+                "id": 422,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "Cyber Hunter",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 420,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Onmyoji",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 418,
+                "launcher": "Steam"
+            },
+            {
+                "id": 419,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "Trove",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 416,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Lord of the Rings Online™",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 415,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dungeons & Dragons Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 414,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "PlanetSide 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 413,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "EverQuest",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 412,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Z1 Battle Royale",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 411,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Atlantica Europe",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 410,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Valfaris",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 409,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Demon Pit",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 408,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DreamBreak",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 406,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Slayers",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 405,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Slain: Back from Hell",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 404,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Helltaker",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 403,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Space Cows",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 402,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Red Wings: Aces of the Sky",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 401,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Arboria",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 400,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Metamorphosis",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 399,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Fort Triumph",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 398,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tools Up!",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 397,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Paradise Lost",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 395,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Construction Simulator 2 US - Pocket Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 394,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Industry Manager: Future Technologies",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 393,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Gujian3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 392,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™21",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 391,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Take Off - The Flight Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 390,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Gravity Island",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 389,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Police Tactics: Imperio",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 388,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "TransOcean 2: Rivals",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 387,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Oil Enterprise",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 386,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "CITYCONOMY: Service for your City",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 385,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Jack Keane 2 - The Fire Within",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 384,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dive to the Titanic",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 383,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Moto Racer 4",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 381,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Drone Swarm",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 380,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Police Simulator: Patrol Duty",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 379,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bus-Simulator 2012",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 378,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Firefighting Simulator - The Squad",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 377,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Fishing: Barents Sea",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 376,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bus Simulator 16",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 375,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "TransRoad: USA",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 374,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Mystery of Neuschwanstein",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 373,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Construction Simulator 2015",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 372,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "TransOcean: The Shipping Company",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 371,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bus Simulator 18",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 369,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RichMan 10",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 368,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Fallback",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 367,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Garfield Kart - Furious Racing",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 366,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Syberia: The World Before - Prologue",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 365,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Syberia 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 364,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Syberia II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 363,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Syberia",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 361,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Hustle Castle",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 360,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Xuan-Yuan Sword VII",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 358,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tannenberg",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 357,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Verdun",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 356,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Evoland Legendary Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 355,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Supraball",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 353,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Darksburg",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 352,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Supraland",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 351,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Northgard",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 350,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™13",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 349,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MXGP - The Official Motocross Videogame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 348,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Energy Supercross - The Official Videogame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 346,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Гильдия Героев",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 345,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Left to Survive",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 343,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hearts of Iron 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 342,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "For The Glory: A Europa Universalis Game",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 341,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Europa Universalis III",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 340,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Crusaders: Thy Kingdom Come",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 339,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Age of Wonders",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 338,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Knights of Honor",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 337,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™15",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 336,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Darkest Hour: A Hearts of Iron Game",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 335,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™14",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 334,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MXGP2 - The Official Motocross Videogame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 333,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Aces of the Luftwaffe - Squadron",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 332,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Cities in Motion",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 331,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™17",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 330,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RIDE",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 329,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MXGP3 - The Official Motocross Videogame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 328,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ride 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 327,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Europa Universalis: Rome - Gold Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 326,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Kings' Crusade",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 325,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bang Bang Racing",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 324,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ghostly Matter",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 323,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Railroad Pioneer",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 322,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Overclocked: A History of Violence",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 321,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Citadels",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 320,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Nexus - The Jupiter Incident",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 319,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Giana Sisters: Twisted Dreams",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 318,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Devils & Demons",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 317,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Clouds & Sheep 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 316,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Giana Sisters 2D",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 315,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™18",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 314,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Energy Supercross - The Official Videogame 4",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 313,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "World of Zoo",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 312,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Mystery of the Druids",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 311,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Stunt Kite Party",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 310,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "1943 Deadly Desert",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 309,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "SkyDrift",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 308,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Teleglitch: Die More Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 307,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Age of Wonders II: The Wizard's Throne",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 306,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "A Game of Dwarves",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 305,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hearts of Iron III",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 304,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Panzer Elite Action Gold Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 303,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Energy Supercross - The Official Videogame 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 301,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RIDE 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 300,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Safecracker: The Ultimate Puzzle Adventure",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 298,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™19",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 297,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Lock's Quest",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 296,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Kill to Collect",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 295,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "March of the Eagles",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 294,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sébastien Loeb Rally EVO",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 293,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MXGP PRO",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 292,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Knights of Pen and Paper 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 291,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Knights of Pen and Paper +1 Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 290,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Airline Tycoon Deluxe",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 289,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dead by Daylight",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 288,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MXGP 2020 - The Official Motocross Videogame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 287,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Energy Supercross - The Official Videogame 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 286,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "WRC 7 FIA World Rally Championship",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 285,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Thunder Wolves",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 284,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Crusader Kings II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 283,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Rogue Stormers",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 282,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "15 Days",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 281,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Moment of Silence",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 280,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "TT Isle of Man Ride on the Edge 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 279,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Warlock - Master of the Arcane",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 278,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Cities in Motion 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 276,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sword of the Stars: Complete Collection",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 275,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Last Farewell",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 274,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DUCATI - 90th Anniversary",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 273,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "CURSE",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 271,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Cathedral 3-D",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 270,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ritual: Crown of Horns",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 269,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Padre",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 268,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "One Shell Straight to Hell",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 265,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King Arthur II: The Role-Playing Wargame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 264,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "King Arthur - The Role-playing Wargame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 263,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Townsmen - A Kingdom Rebuilt",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 262,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Almost Gone",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 261,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Valentino Rossi The Game",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 260,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Impire",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 259,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tyranny",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 258,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ancient Space",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 257,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hunting Simulator 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 256,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RUGBY 20",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 255,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Vampire: The Masquerade - Shadows of New York",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 254,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Vampire: The Masquerade - Coteries of New York",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 253,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Steel Division: Normandy 44",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 252,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Rad Rodgers - Radical Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 251,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Shadowrun Returns",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 250,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "WRC 8 FIA World Rally Championship",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 249,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Spitlings",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 248,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Necropolis: Brutal Edition",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 247,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Warlock 2: The Exiled",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 246,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sengoku",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 245,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Imperator: Rome",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 244,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sine Mora EX",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 243,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Through the Darkest of Times",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 242,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "TRAPPED",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 241,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Mighty Fight Federation",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 240,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sniper Ghost Warrior Contracts",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 239,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Sniper: Ghost Warrior 3",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 238,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Lords of the Fallen",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 237,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Лаунчер Steam",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 236,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Jagged Alliance: Rage!",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 235,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Gravel",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 234,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Blacksad: Under the Skin",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 233,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Magicka",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 232,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Age of Wonders: Planetfall",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 231,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Age of Wonders III",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 225,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MXGP 2019 - The Official Motocross Videogame",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 224,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Styx: Master of Shadows",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 223,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Bee Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 222,
+                "launcher": "Gaijin"
+            }
+        ],
+        "name": "Star Conflict",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 219,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "RIDE 4",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 218,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "UBOAT",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 217,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Thief Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 216,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Car Mechanic Simulator 2018",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 214,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Сфера 3: Ярость Сокрушителя",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 213,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "MotoGP™20",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 212,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Warhammer: Chaosbane",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 211,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Röki",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 210,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Empire of Sin",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 207,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "AO Tennis 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 206,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Tennis World Tour 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 205,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Monster Truck Championship",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 204,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Phoning Home",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 203,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Pro Cycling Manager 2020",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 201,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Little Big Workshop",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 200,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Magicka 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 199,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Chicken Police",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 198,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Neighbours back From Hell",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 197,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Pillar",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 196,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Cloudpunk",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 191,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Pillars of Eternity",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 190,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Surviving Mars",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 189,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Victoria II",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 188,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "BATTLETECH",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 187,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Surviving the Aftermath",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 186,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Stellaris",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 185,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Prison Architect",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 184,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Europa Universalis IV",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 183,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Cities: Skylines",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 182,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hearts of Iron IV",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 215,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "War Robots",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 180,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Crusader Kings III",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 179,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "World Above: Облачная гавань",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 178,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Mordhau",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 174,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Those Who Remain",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 173,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Deliver us the Moon",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 171,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "Honkai Impact 3rd",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 155,
+                "launcher": "Epic Games Store"
+            }
+        ],
+        "name": "Fortnite",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 154,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Uncertain: Light At The End",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 153,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Unturned",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 152,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dota 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 151,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Counter-Strike: Global Offensive",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 150,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Warspear Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 149,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Polygon",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 148,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Heavy Metal Machines",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 146,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "X4: Foundations",
+        "plans": [
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 144,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Battle Tanks",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 143,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "35MM",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 142,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Bus Driver Simulator",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 141,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "7th Sector",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 140,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Noise",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 137,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Broken Lines",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 135,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Will To Live Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 134,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Astellia",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 133,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Knock Harder",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 131,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Fishing planet",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 130,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Drakensang Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 129,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Biped",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 128,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Beholder",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 126,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Beholder 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 125,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Do Not Feed the Monkeys",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 124,
+                "launcher": "Wargaming.net Game Center"
+            }
+        ],
+        "name": "World of Warships",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 123,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Squad",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 120,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Deceit",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 72,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "DESTINY 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 67,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Realpolitiks",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 66,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Conan Unconquered",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 65,
+                "launcher": "Steam"
+            },
+            {
+                "id": 460,
+                "launcher": "Epic Games Store"
+            }
+        ],
+        "name": "Mutant Year Zero: Road to Eden",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 63,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "В тылу врага: Штурм 2 Холодная война",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 62,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "В тылу врага: Штурм 2",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 61,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "WRATH: Aeon of Ruin",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 60,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Unknown Fate",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 59,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "The Park",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 58,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Moons of Madness",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 57,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Conan Exiles",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 53,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Re-Legion",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 51,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Eternity: The Last Unicorn",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 50,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Devil's Hunt",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 48,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Conglomerate 451",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 47,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Company of Crime",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 46,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Ancestors Legacy",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 42,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dying Light",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 41,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "God's Trigger",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 40,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Pure Farming 2018",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 39,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Call of Juarez: Gunslinger",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 38,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Call of Juarez",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 37,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Call of Juarez: Bound in Blood",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 359,
+                "launcher": "Игровой Центр"
+            },
+            {
+                "id": 362,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "RAM Pressure",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 28,
+                "launcher": ".exe"
+            }
+        ],
+        "name": "EVE Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 19,
+                "launcher": "Gaijin"
+            }
+        ],
+        "name": "CRSED: F.O.A.D.",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 17,
+                "launcher": "Gaijin"
+            }
+        ],
+        "name": "War Thunder",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 27,
+                "launcher": "Gaijin"
+            }
+        ],
+        "name": "Crossout",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 15,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Armored Warfare",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 14,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Аллоды Онлайн",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 13,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Skyforge",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 12,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Conqueror's Blade",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 11,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Revelation Online",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 10,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Jade Dynasty",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 9,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "CrossFire",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 8,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Perfect World",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 7,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "ArcheAge",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 6,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Lost Ark",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 5,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Warface",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 32,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "XERA: Survival",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 31,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Hover",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 2,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Old School Musical",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 1,
+                "launcher": "Steam"
+            }
+        ],
+        "name": "Dead in Vinland",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    }
+]
