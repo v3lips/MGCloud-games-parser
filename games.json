@@ -2,6 +2,57 @@
     {
         "launchers": [
             {
+                "id": 689,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Boss Rush: Mythology",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 688,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Noch",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 687,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "The Mooseman",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
                 "id": 686,
                 "launcher": "Игровой Центр"
             }
@@ -24,6 +75,23 @@
             }
         ],
         "name": "MASKA",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
+                "id": 684,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Winter",
         "plans": [
             "Basic",
             "Medium",
