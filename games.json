@@ -2,6 +2,23 @@
     {
         "launchers": [
             {
+                "id": 691,
+                "launcher": "Игровой Центр"
+            }
+        ],
+        "name": "Myth of Empires",
+        "plans": [
+            "Basic",
+            "Medium",
+            "Ultra",
+            "MY.GAMES",
+            "All.GAMES",
+            "PREMIUM"
+        ]
+    },
+    {
+        "launchers": [
+            {
                 "id": 689,
                 "launcher": "Игровой Центр"
             }
