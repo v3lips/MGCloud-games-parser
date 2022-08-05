@@ -1,31 +1,66 @@
 # -*- coding: utf-8 -*-
 
+from json import dump
+from typing import List, NamedTuple, Tuple
+
 import requests
-import json
+
+API_URL = "https://api.cloud.my.games"
 
 
-url = "https://api.cloud.my.games/api/games?page=1&page_size=100"
-path = "games.json"
-data = list()
+class Launcher(NamedTuple):
+    id: int
+    name: str
 
-while True:
 
+class Game(NamedTuple):
+    id: int
+    name: str
+    description: str
+    plans: Tuple[str]
+    launchers: Tuple[str]
+
+
+def validate_game(games_dict: dict) -> Tuple[Game]:
+    return [
+        Game(
+            id=meta.get('id'),
+            name=meta.get('name'),
+            description=meta.get('long_descr'),
+            plans=tuple(rate.get('name') for rate in meta.get('plans_family')),
+            launchers=tuple(
+                Launcher(id=item.get('id'), name=item.get('launcher'))
+                for item in meta.get('game_launchers')
+            )
+        )
+        for meta in games_dict
+    ]
+
+
+def main() -> None:
+    url = f'{API_URL}/api/games?page_size=100'
     response = requests.get(url).json()
 
-    for item in response["results"]:
-        launchers = [{"id": _item["id"], "launcher": _item["launcher"]}
-                     for _item in item["game_launchers"]]
+    count = response.get('count')
+    games: List[Game] = validate_game(response.get('results'))
 
-        data.append({
-            "launchers": launchers,
-            "name": item["name"],
-            "plans": [_item["name"] for _item in item["plans_family"]],
-        })
+    for _ in range(100, count, 100):
+        url = response.get('next')
+        response = requests.get(url).json()
+        games.extend(
+            validate_game(response.get('results'))
+        )
 
-    url = response["next"]
 
-    if not url:
-        break
+    with open("path.json", 'w', encoding="UTF-8") as file:
+        dump(
+            [item._asdict() for item in games],
+            file,
+            indent=4,
+            sort_keys=True,
+            ensure_ascii=False,
+        )
 
-with open(path, 'w', encoding="UTF-8") as file:
-    json.dump(data, file, ensure_ascii=False, indent=4, sort_keys=True)
+if __name__ == '__main__':
+    main()
+
