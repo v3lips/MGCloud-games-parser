@@ -3,7 +3,7 @@
 from json import dump
 from typing import List, NamedTuple, Tuple
 
-import requests
+from requests import Session
 
 API_URL = "https://api.cloud.my.games"
 
@@ -24,35 +24,40 @@ class Game(NamedTuple):
 def validate_game(games_dict: dict) -> Tuple[Game]:
     return [
         Game(
-            id=meta.get('id'),
-            name=meta.get('name'),
-            description=meta.get('long_descr'),
-            plans=tuple(rate.get('name') for rate in meta.get('plans_family')),
+            id=game.get('id'),
+            name=game.get('name'),
+            description=game.get('long_descr'),
+            plans=tuple(rate.get('name') for rate in game.get('plans_family')),
             launchers=tuple(
                 Launcher(id=item.get('id'), name=item.get('launcher'))
-                for item in meta.get('game_launchers')
+                for item in game.get('game_launchers')
             )
         )
-        for meta in games_dict
+        for game in games_dict
     ]
 
 
 def main() -> None:
-    url = f'{API_URL}/api/games?page_size=100'
-    response = requests.get(url).json()
+    session = Session()
+    
+    url = f'{API_URL}/api/games'
+    params = {
+    	"page_size": 100
+    }
+    response = session.get(url, params=params).json()
 
     count = response.get('count')
     games: List[Game] = validate_game(response.get('results'))
 
     for _ in range(100, count, 100):
         url = response.get('next')
-        response = requests.get(url).json()
+        response = session.get(url).json()
         games.extend(
             validate_game(response.get('results'))
         )
 
 
-    with open("path.json", 'w', encoding="UTF-8") as file:
+    with open("games.json", 'w', encoding="UTF-8") as file:
         dump(
             [item._asdict() for item in games],
             file,
@@ -63,4 +68,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-
