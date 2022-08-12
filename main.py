@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from json import dump
-from typing import List, NamedTuple, Tuple
+from typing import List, NamedTuple
 
 from requests import Session
 
@@ -21,7 +21,7 @@ class Game(NamedTuple):
     launchers: Tuple[str]
 
 
-def validate_game(games_dict: dict) -> Tuple[Game]:
+def validate_game(games_dict: dict) -> List[Game]:
     return [
         Game(
             id=game.get('id'),
@@ -47,7 +47,7 @@ def main() -> None:
     response = session.get(url, params=params).json()
 
     count = response.get('count')
-    games: List[Game] = validate_game(response.get('results'))
+    games = validate_game(response.get('results'))
 
     for _ in range(100, count, 100):
         url = response.get('next')
